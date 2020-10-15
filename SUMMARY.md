@@ -1,4 +1,4 @@
-<img src="image\logo01.png" alt="PNG" style="zoom: 20%;" />
+<img src="image/logo01.png" alt="PNG" style="zoom: 20%;" />
 
 * [快速了解存鱼](README.md)
 * [订单管理](01-订单管理/README.md)
