@@ -83,4 +83,5 @@
 * [关于我们](关于我们.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [企业版如何添加成员？](chang-jian-wen-ti/qi-ye-ban-ru-he-tian-jia-cheng-yuan-ff1f.md)
+  * [如何购买企业版？](ru-he-gou-mai-qi-ye-ban-ff1f.md)
 
