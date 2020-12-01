@@ -1,6 +1,6 @@
 # 本项目已经搬迁到：
 
-[Gitee:https://gitee.com/genson2016/dashboard/projects/genson2016/cunyu-manual/](https://gitee.com/genson2016/dashboard/projects/genson2016/cunyu-manual/)
+[Gitee:https://gitee.com/genson2016/cunyu-manual](https://gitee.com/genson2016/cunyu-manual)
 
 
 ## 快速了解存鱼
