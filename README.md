@@ -1,5 +1,9 @@
-## 快速了解存鱼
+# 本项目已经搬迁到：
 
+[Gitee:https://gitee.com/genson2016/dashboard/projects/genson2016/cunyu-manual/](https://gitee.com/genson2016/dashboard/projects/genson2016/cunyu-manual/)
+
+
+## 快速了解存鱼
 
 
 <img src="https://x-account.oss-cn-shenzhen.aliyuncs.com/cdn/logo/logo1/blue/02.png?x-oss-process=image/resize,m_fill,h_100,w_350,limit_0" alt="PNG"/>
